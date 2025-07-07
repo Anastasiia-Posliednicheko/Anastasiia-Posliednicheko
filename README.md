@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anastasiia Posliednichenko
 
 🎯 **Junior Frontend Developer**  
-🇺🇦 Originally from **Ukraine**  
+🇺🇦  Originally from **Ukraine**  
 🌍 Currently based in **Germany**  
 📚 Actively learning **English** and **German**  
 💻 Passionate about building clean, user-friendly web applications
