@@ -43,11 +43,5 @@ Focused on writing clean, user-friendly code and eager to grow in a collaborativ
 
 ---
 
-## 📊 GitHub Stats
-
-![Anastasiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anastasiia-Posliednicheko&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anastasiia-Posliednicheko&layout=compact)
-
 
 _Thanks for visiting my profile!_
