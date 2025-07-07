@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anastasiia Posliednichenko
+# 👋 Hi, I'm Anastasiia 💻
 
 🎯 **Junior Frontend Developer**  
 🇺🇦   Originally from **Ukraine**  
